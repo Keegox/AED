@@ -1,3 +1,9 @@
+/*
+Ejemplo Tipos de Datos
+TSQ
+20220420
+*/
+
 #include <cassert>
 #include <iostream>
 //#include <string>
