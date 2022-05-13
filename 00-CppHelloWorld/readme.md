@@ -1,3 +1,9 @@
+* K1253
+* 2022
+* 20220420
+* Sailer Quintana
+* Tobías
+
 # "Hello, World!" en C++
 
 ## 4.1. Objetivos
