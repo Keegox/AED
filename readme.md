@@ -1,7 +1,7 @@
-Algoritmos y Estructuras de Datos
+##Algoritmos y Estructuras de Datos
 
-*Curso.
-*Año de cursada, y cuatrimestre si corresponde.
-*Legajo.
-*Apellido.
-*Nombre.
+-K1253.
+-2022.
+-20220420.
+-Sailer Quintana.
+-Tobías.
