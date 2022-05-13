@@ -1,3 +1,9 @@
+/*
+Ejemplo Tipos de Datos
+TSQ
+20220420
+*/
+
 #include <cassert>
 #include <iostream>
 //#include <string>
@@ -45,7 +51,7 @@ int main()
     assert(1u == 11u % 2u);
     assert(5u == 3u + 2u);
     assert(9999999999u == 9999999998u + 1u);
-    assert(1000000000000000000000000001u == 1000000000000000000000000000u + 1u); // Es muy larga para el tipo de dato
+    // assert(1000000000000000000000000001u == 1000000000000000000000000000u + 1u); // Es muy larga para el tipo de dato
     assert(3000u >= 1000u);
 
     // Prueba de tipo de dato string
