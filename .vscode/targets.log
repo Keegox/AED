@@ -6,12 +6,8 @@ make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --quest
 # PARTICULAR PURPOSE.
 
 # This program built for i686-pc-msys
- 
-make.exe: *** No rule to make target `all'.  Stop.
 
-
- 
-# Make data base, printed on Fri May 13 04:40:36 2022
+# Make data base, printed on Fri Aug  5 04:44:40 2022
 
 # Variables
 
@@ -21,8 +17,6 @@ make.exe: *** No rule to make target `all'.  Stop.
 ?F = $(notdir $?)
 # makefile
 MAKEFLAGS = Rrqp
-# environment
-VSCODE_LOG_NATIVE = false
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # automatic
@@ -40,7 +34,7 @@ SHELL := /bin/sh
 # environment
 WINDIR = C:\WINDOWS
 # environment
-VSCODE_NLS_CONFIG = {"locale":"es-419","availableLanguages":{"*":"es"},"_languagePackId":"125a9a608456aa5e8a25d0a18c7b1d68.es","_translationsConfigFile":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\125a9a608456aa5e8a25d0a18c7b1d68.es\\tcf.json","_cacheRoot":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\125a9a608456aa5e8a25d0a18c7b1d68.es","_resolvedLanguagePackCoreLocation":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\125a9a608456aa5e8a25d0a18c7b1d68.es\\da15b6fd3ef856477bf6f4fb29ba1b7af717770d","_corruptedFile":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\125a9a608456aa5e8a25d0a18c7b1d68.es\\corrupted.info","_languagePackSupport":true}
+VSCODE_NLS_CONFIG = {"locale":"es","availableLanguages":{"*":"es"},"_languagePackId":"74522ba3f1649aca072dde1ae3214658.es","_translationsConfigFile":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\74522ba3f1649aca072dde1ae3214658.es\\tcf.json","_cacheRoot":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\74522ba3f1649aca072dde1ae3214658.es","_resolvedLanguagePackCoreLocation":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\74522ba3f1649aca072dde1ae3214658.es\\da76f93349a72022ca4670c1b84860304616aaa2","_corruptedFile":"C:\\Users\\Propietario\\AppData\\Roaming\\Code\\clp\\74522ba3f1649aca072dde1ae3214658.es\\corrupted.info","_languagePackSupport":true}
 # environment
 ONEDRIVE = C:\Users\Propietario\OneDrive - UTN.BA
 # environment
@@ -54,17 +48,13 @@ FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
 TMP = /tmp
 # environment
-VSCODE_VERBOSE_LOGGING = true
-# environment
 PROGRAMW6432 = C:\Program Files
 # environment
 PROGRAMDATA = C:\ProgramData
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-849e1a3a-191d-4c61-95c6-6a4a47a9e0ce-sock
-# environment
 VSCODE_CWD = C:\Users\Propietario\AppData\Local\Programs\Microsoft VS Code
 # environment
-PATH = /c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/ProgramData/Oracle/Java/javapath:/c/windows/system32:/c/windows:/c/windows/System32/Wbem:/c/windows/System32/WindowsPowerShell/v1.0/:/c/windows/System32/OpenSSH/:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Program Files/dotnet/:/c/Program Files/Microsoft SQL Server/120/Tools/Binn/:/c/Program Files/Git/cmd:/mingw/bin:/usr/bin:/c/Users/Propietario/AppData/Local/Programs/Python/Python310/Scripts/:/c/Users/Propietario/AppData/Local/Programs/Python/Python310/:/c/Users/Propietario/AppData/Local/Microsoft/WindowsApps:/c/Users/Propietario/AppData/Local/Programs/Microsoft VS Code/bin:/c/msys64/mingw64/bin:.
+PATH = /c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/c/ProgramData/Oracle/Java/javapath:/c/windows/system32:/c/windows:/c/windows/System32/Wbem:/c/windows/System32/WindowsPowerShell/v1.0/:/c/windows/System32/OpenSSH/:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/Program Files/NVIDIA Corporation/NVIDIA NvDLISR:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/c/WINDOWS/System32/OpenSSH/:/c/Program Files/dotnet/:/c/Program Files/Microsoft SQL Server/120/Tools/Binn/:/c/Program Files/Git/cmd:/mingw/bin:/usr/bin:/c/Users/Propietario/AppData/Local/Programs/Python/Python310/Scripts/:/c/Users/Propietario/AppData/Local/Programs/Python/Python310/:/c/Users/Propietario/AppData/Local/Microsoft/WindowsApps:/c/Users/Propietario/AppData/Local/Programs/Microsoft VS Code/bin:/c/Users/Propietario/AppData/Local/GitHubDesktop/bin:/mingw/bin:/usr/bin:.
 # environment
 ONLINESERVICES = Online Services
 # environment
@@ -80,8 +70,6 @@ USERPROFILE = C:\Users\Propietario
 # environment
 ALLUSERSPROFILE = C:\ProgramData
 # environment
-VSCODE_LOG_STACK = false
-# environment
 NUMBER_OF_PROCESSORS = 12
 # environment
 ELECTRON_RUN_AS_NODE = 1
@@ -90,9 +78,7 @@ ELECTRON_RUN_AS_NODE = 1
 # automatic
 %F = $(notdir $%)
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_16600_ABNNBLZXZOXISWJC
-# environment
-VSCODE_PIPE_LOGGING = true
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_22904_NKONBZRMJMWMGNDD
 # environment
 COMPUTERNAME = LAPTOP-580FDH9N
 # environment
@@ -108,9 +94,9 @@ PUBLIC = C:\Users\Public
 # environment
 VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\Propietario\AppData\Roaming\Code\CachedData\da15b6fd3ef856477bf6f4fb29ba1b7af717770d
+VSCODE_CODE_CACHE_PATH = C:\Users\Propietario\AppData\Roaming\Code\CachedData\da76f93349a72022ca4670c1b84860304616aaa2
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 COMMONPROGRAMFILES = C:\Program Files (x86)\Common Files
 # environment
@@ -154,7 +140,7 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 165 Stepping 2, GenuineIntel
 # environment
 OS = Windows_NT
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\d0076f4b8656aa042ca3f3230a422436-1.67.1-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\d0076f4b8656aa042ca3f3230a422436-1.70.0-main-sock
 # environment
 HOMEPATH = \
 # environment
@@ -192,7 +178,6 @@ MAKEFILES :=
 # environment
 DESKTOP_CONNECTOR_DIR = C:\Program Files\Autodesk\Desktop Connector\
 # environment
- 
 LC_ALL = C
 # automatic
 ^F = $(notdir $^)
@@ -207,6 +192,8 @@ PROCESSOR_REVISION = a502
 # environment
 MAKELEVEL := 0
 # environment
+OPERA_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17944_PCANJJFPYFKBFKYQ
+# environment
 LANG = C
 # environment
 PROCESSOR_LEVEL = 6
@@ -215,11 +202,11 @@ TERM = cygwin
 # environment
 FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
-VSCODE_PID = 16600
+VSCODE_PID = 22904
 # environment
 USERDOMAIN_ROAMINGPROFILE = LAPTOP-580FDH9N
 # variable set hash-table stats:
-# Load=101/1024=10%, Rehash=0, Collisions=9/120=7%
+# Load=97/1024=9%, Rehash=0, Collisions=9/116=8%
 
 # Pattern-specific Variable Values
 
@@ -227,9 +214,9 @@ USERDOMAIN_ROAMINGPROFILE = LAPTOP-580FDH9N
 
 # Directories
 
-# . (device 22472, inode 1497778): 6 files, no impossibilities.
+# . (device 22472, inode 1497778): 9 files, no impossibilities.
 
-# 6 files, no impossibilities in 1 directories.
+# 9 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -274,7 +261,6 @@ makefile:
 
 # Not a target:
 .DEFAULT:
- 
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -286,7 +272,6 @@ GNUmakefile:
 #  File does not exist.
 #  File has been updated.
 #  Failed to be updated.
- 
 # variable set hash-table stats:
 # Load=0/32=0%, Rehash=0, Collisions=0/0=0%
 
@@ -303,6 +288,8 @@ GNUmakefile:
 # strcache size: total = 0 / max = 0 / min = 4096 / avg = 0
 # strcache free: total = 0 / max = 0 / min = 4096 / avg = 0
 
-# Finished Make data base on Fri May 13 04:40:36 2022
+# Finished Make data base on Fri Aug  5 04:44:40 2022
 
  
+make.exe: *** No rule to make target `all'.  Stop.
+
